@@ -11,9 +11,7 @@ So why wait? Download it today!
 # How do you install it?
 First open the folder you downloaded you should find a .exe file called "RestockEZ V2" and then press generate and enjoy!
 
-# Coming soon!
-Hypixel unbanned checker: Tonight probs COMPLETE REWORK: next week
-
-# Oh theres a rework coming soon? Whats gonna be in it?
+# NEW RELEASES!
 1. Connecting to the api
-1. A new ui
+2. A new ui
+3. Hypixel unban checker 100% every account unbanned
