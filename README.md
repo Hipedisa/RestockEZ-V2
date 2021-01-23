@@ -15,3 +15,4 @@ First open the folder you downloaded you should find a .exe file called "Restock
 1. Connecting to the api
 2. A new ui
 3. Hypixel unban checker 100% every account unbanned
+4. FULL ACCESS ADDED
